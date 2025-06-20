@@ -14,6 +14,11 @@
   padding: 12px 24px;
   background: #f7f7f7;
   border-bottom: 1px solid #ddd;
+  margin-top: 10px;
+}
+.language-changer select{
+    height: 30px;
+    border-radius: 10px;
 }
 
 .compiler-topbar .tab {

@@ -33,7 +33,7 @@ const Compiler = () => {
         <span className="title">C++ Hello World</span>
         <div className="controls">
           <div className="language-changer">
-            <select
+            <select className="option-for-compiler"
             value={language}
             onChange={
               (e)=> {
