@@ -7,7 +7,6 @@ import PromoSection from "./components/PromoSection";
 import Compiler from "./components/Compiler";
 import CodeShare from "./components/CodeShareCollab/CodeShare";
 import Footer  from "./components/Footer";
-import Features from "./components/Features";
 
 function App() {
   return (
@@ -21,7 +20,6 @@ function App() {
               <HeroSection />
               <LangSupportSection />
               <PromoSection />
-              <Features />
             </>
           }
         />
